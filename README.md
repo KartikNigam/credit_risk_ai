@@ -5,7 +5,7 @@ This project leverages machine learning to assess credit risk, predicting whethe
 ____________________________________________________________________________________________________________________________________________________________
 
 
-📊 Dataset Details
+📊 Dataset Details                                                                                                                                                                                                         
 The credit risk model is trained on a well-structured dataset that includes financial and demographic attributes of loan applicants. This dataset provides insights into factors such as credit history, employment status, loan amount, and more, helping to assess an applicant’s likelihood of defaulting.
 🔹 Source: UCI Machine Learning Repository - Statlog (German Credit Data)
 🔹 Size: 1,000 instances
